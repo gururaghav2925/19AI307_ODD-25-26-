@@ -22,8 +22,8 @@ To write a Java program that finds the index position of a specified element fro
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: MADHUMITHA R R
-RegisterNumber:212224240083 
+Developed by: Guru Raghav Ponjeevith V 
+RegisterNumber:212223220027  
 */
 ```
 
