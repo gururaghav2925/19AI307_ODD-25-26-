@@ -20,8 +20,8 @@ To write a Java program to find the largest digit in a given number using Wrappe
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: MADHUMITHA R R
-RegisterNumber:212224240083 
+Developed by: Guru Raghav Ponjeevith V 
+RegisterNumber:212223220027  
 */
 ```
 
