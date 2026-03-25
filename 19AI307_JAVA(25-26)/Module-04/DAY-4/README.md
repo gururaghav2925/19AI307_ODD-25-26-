@@ -26,8 +26,8 @@ To write a Java program that implements the Factory Design Pattern to create and
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: MADHUMITHA R R
-RegisterNumber:212224240083 
+Developed by: Guru Raghav Ponjeevith V 
+RegisterNumber:212223220027 
 */
 ```
 
