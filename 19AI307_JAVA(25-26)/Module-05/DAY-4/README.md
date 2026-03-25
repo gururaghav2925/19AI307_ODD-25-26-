@@ -22,8 +22,8 @@ To write a Java program that demonstrates thread priority by creating two thread
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: MADHUMITHA R R
-RegisterNumber: 212224240083 
+Developed by: Guru Raghav Ponjeevith V 
+RegisterNumber: 212223220027 
 */
 ```
 
